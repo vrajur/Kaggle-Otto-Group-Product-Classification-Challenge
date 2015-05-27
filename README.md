@@ -29,7 +29,7 @@ Manually preprocessed training examples are loaded to memory, and the neural
 network is initialized. 
 
 Neural network is trained on the example data, and the cost function and its
-gradient are calcualted using backpropagation. Training is done using an
+gradient are calculated using backpropagation. Training is done using an
 adaptive step-size gradient descent algorithm.
 
 Test examples are then run through the trained neural network and
