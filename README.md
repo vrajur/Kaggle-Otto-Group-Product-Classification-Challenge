@@ -13,7 +13,8 @@ Last Submission Entry: April 24, 2015
 ---------------------------
 Operation Instructions:
 ---------------------------
-The script Run.m will execute the entire process of loading the test 
+Download the repository and open the 'Solution Files' directory.
+The script 'Run.m' will execute the entire process of loading the test 
 and training data, initializing and training the neural network, and 
 making classification predictions from the test data.
 
