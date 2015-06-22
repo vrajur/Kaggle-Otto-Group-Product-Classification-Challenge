@@ -7,7 +7,9 @@ This is a classifier algorithm built as an entry for the
 Otto Group Product Classification Challenge hosted on Kaggle.com:
 
 Competition Ended May 18th, 2015
+
 Number of Submission Attempts: 1
+
 Last Submission Entry: April 24, 2015
 
 ---------------------------
